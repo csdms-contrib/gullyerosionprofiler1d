@@ -1,0 +1,16 @@
+
+Input
+Time = 400
+dT = 0.001
+tauc = 150.0
+taucWepp = 7.2
+lenzone = 6.0
+n = 0.05
+nbare = 0.0216
+Pmmphr = 35.0
+tval = 15625.0
+Immphr = 20.0
+zparam1 = 0.0001192
+zparam2 = -0.1157
+zparam3 = 1026
+hcelev = 2
